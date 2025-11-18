@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+statlog_german_credit_metadata.txt
+
+.venv/
+
