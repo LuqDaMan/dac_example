@@ -82,4 +82,6 @@ python src/datapipeline.py
 python src/model.py
 ```
 
-# questions and faqs
+# Some links to learn more about what was covered:
+* [MLU Explain: Neural Networks](https://mlu-explain.github.io/neural-networks/)
+* [The Chain Rule of Calculus: The Backbone of Deep Learning Backpropagation](https://medium.com/@ppuneeth73/the-chain-rule-of-calculus-the-backbone-of-deep-learning-backpropagation-9d35affc05e7)
